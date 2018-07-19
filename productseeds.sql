@@ -1,0 +1,10 @@
+INSERT INTO products (item_id, product_name, department_name, price, stock_quantity) VALUES (1, "Hockey Stick", "sporting goods", 45, 8);
+INSERT INTO products (item_id, product_name, department_name, price, stock_quantity) VALUES (2, "Baseball Bat", "sporting goods", 35, 3);
+INSERT INTO products (item_id, product_name, department_name, price, stock_quantity) VALUES (3, "Basketball", "sporting goods", 10, 22);
+INSERT INTO products (item_id, product_name, department_name, price, stock_quantity) VALUES (4, "Fender Strat", "guitars", 699, 3);
+INSERT INTO products (item_id, product_name, department_name, price, stock_quantity) VALUES (5, "Gibson Les Paul", "guitars", 999, 5);
+INSERT INTO products (item_id, product_name, department_name, price, stock_quantity) VALUES (6, "PRS Custom 22", "guitars", 3000, 1);
+INSERT INTO products (item_id, product_name, department_name, price, stock_quantity) VALUES (7, "Notebook", "office supplies", 1, 300);
+INSERT INTO products (item_id, product_name, department_name, price, stock_quantity) VALUES (8, "Pen", "office supplies", 1, 175);
+INSERT INTO products (item_id, product_name, department_name, price, stock_quantity) VALUES (9, "Pencil", "office supplies", 1, 225);
+INSERT INTO products (item_id, product_name, department_name, price, stock_quantity) VALUES (10, "Office Space", "DVDs", 10, 55);
